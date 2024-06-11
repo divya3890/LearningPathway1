@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mail2\\source\\repos\\LearningPathway1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\interface\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\interface\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E790229-623C-480B-8BEA-4D116EC1A02D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E790229-623C-480B-8BEA-4D116EC1A02D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E790229-623C-480B-8BEA-4D116EC1A02D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E790229-623C-480B-8BEA-4D116EC1A02D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\migrations\\20240611124810_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240611124810_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C762BC28-602F-4786-BDE6-7B130A7A329C}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\datalayer\\migrations\\20240611124810_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F033F-E098-4739-8BC1-CC7D21756858}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20240611124810_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E790229-623C-480B-8BEA-4D116EC1A02D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\mail2\\source\\repos\\learningpathway1\\presentationlayer\\businesslogiclayer\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E790229-623C-480B-8BEA-4D116EC1A02D}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T16:13:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:44:11.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PresentationLayer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:42:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:38:36.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:29:49.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:48:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Interface\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Interface\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Interface\\CustomerRepository.cs",
+              "RelativeToolTip": "DataLayer\\Interface\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:19:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:13:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "DataLayer\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:17:42.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\appsettings.json",
+              "RelativeToolTip": "PresentationLayer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T11:55:13.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:38:26.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:09:26.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:49:48.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T11:08:50.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Entity\\Customer.cs",
+              "RelativeToolTip": "DataLayer\\Entity\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:10:37.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T11:27:36.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:09:28.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\BusinessLogicLayer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\BusinessLogicLayer\\CustomerService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:29:34.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PresentationLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T11:38:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\BusinessLogicLayer\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\BusinessLogicLayer\\ICustomerService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:28:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240611124810_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Migrations\\20240611124810_Initial.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240611124810_Initial.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Migrations\\20240611124810_Initial.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240611124810_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:48:10.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240611124810_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Migrations\\20240611124810_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20240611124810_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\mail2\\source\\repos\\LearningPathway1\\PresentationLayer\\DataLayer\\Migrations\\20240611124810_Initial.Designer.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20240611124810_Initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:50:48.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
